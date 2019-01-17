@@ -67,13 +67,13 @@ Let’s get started.
 
 ### Screenshots
 
-#### Test 1
+#### Test 1 - A Perfectly Centered Logo
 ![Screenshot](./Screenshots/Screenshot1.png?raw=true "Screenshot")
 
-#### Test 2
+#### Test 2- A Navigation Menu.
 ![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
 
-#### Test 3
+#### Test 3 - The Bread and Butter Layout
 ![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
 
 #### Test 3a
@@ -82,5 +82,8 @@ Let’s get started.
 #### Test 3b- Responsive Screen
 ![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
 
-#### Test 4
+#### Test 4- A List
 ![Screenshot](./Screenshots/Screenshot6.png?raw=true "Screenshot")
+
+#### Test 5 - Media Objects with Flexbox
+![Screenshot](./Screenshots/Screenshot7.png?raw=true "Screenshot")
