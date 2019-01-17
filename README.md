@@ -93,3 +93,9 @@ Let’s get started.
 
 #### Test 6 - Flexible Grids in Seconds.
 ![Screenshot](./Screenshots/Screenshot9.png?raw=true "Screenshot")
+
+#### Test 7 - Sectioned Navigation
+![Screenshot](./Screenshots/Screenshot10.png?raw=true "Screenshot")
+
+#### Test 7 - Sectioned Navigation
+![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
