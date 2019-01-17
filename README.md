@@ -99,3 +99,6 @@ Let’s get started.
 
 #### Test 7 - Sectioned Navigation
 ![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
+
+#### Test 8 - Form Addons
+![Screenshot](./Screenshots/Screenshot12.png?raw=true "Screenshot")
