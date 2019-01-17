@@ -90,3 +90,6 @@ Let’s get started.
 
 #### Test 5 - Media Objects with form using flexbox
 ![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+
+#### Test 6 - Flexible Grids in Seconds.
+![Screenshot](./Screenshots/Screenshot9.png?raw=true "Screenshot")
