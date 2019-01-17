@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Flexbox</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Flexbox</h1>
+        </header>
+        <main>
+            <aside>
+                <ul>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                </ul>
+            </aside>
+            <div class="primary">
+                <p>
+                    Best-case scenario? If you don’t mind the non-Flexbox browsers getting a different layout, then you
+                    don’t need to do anything. This is called graceful degradation and is certainly the easiest
+                    approach.
+                </p>
+                <p>When browsers see a rule they don’t understand — like display:flex — they ignore it entirely. This
+                    is great for us, because it means all Flexbox properties will be ignored. A flex container and
+                    items will fall back to their default behavior, likely display:block.
+                </p>
+                <p>
+                    As a result, non-Flexbox browsers will get a vertically-stacked mobile-style layout. All the
+                    content will still be accessible and functional, it just won’t be laid out the same as modern
+                    browsers.
+                </p>
+
+            </div>
+        </main>
+
+        <footer>
+            <h5>Flexbox</h5>
+            <p>All Rights Reserved</p>
+        </footer>
+    </div>
+</body>
+
+</html>

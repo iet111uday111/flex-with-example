@@ -72,3 +72,12 @@ Let’s get started.
 
 #### Test 2
 ![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
+
+#### Test 3
+![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
+
+#### Test 4a
+![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+
+#### Test 4b- Responsive Screen
+![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
